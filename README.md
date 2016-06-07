@@ -2,7 +2,9 @@
 
 ## Overview
 
-Continuing on in the Simon Stamp Saga... In this lesson we will learn how to delete files from both local and remote repositories, as wella s how to unstage files, and ignore files wish to automatically prevent from being staged. 
+Continuing on in the Simon Stamp Saga... In this lesson we will learn how to delete files from both local and remote repositories, as well as how to unstage files, and ignore files wish to automatically prevent from being staged. 
+
+This lesson continues from the prior one and will build on the files and folders- simon-stamp-collection-  that you've already created. Make sure you do all the lessons in this unit in order!
 
 ## Objectives
 
